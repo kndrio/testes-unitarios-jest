@@ -36,7 +36,7 @@ Ao seguir esses conceitos, os testes unitários podem ser uma ferramenta valiosa
 
 Para trabalhar com testes unitários usando Jest, você precisa ter conhecimento básico em JavaScript e compreender os conceitos de testes unitários em geral. Além disso, você precisa saber:
 
-1. [Instalação e configuração do Jest](https://jestjs.io/pt-BR/docs/getting-started) em seu projeto.
+1. [Instalação e configuração do Jest](https://jestjs.io/docs/getting-started) em seu projeto.
 
 2. **Escrita de testes**: Jest fornece vários métodos, como describe, it, test, expect, etc., para escrever e executar seus testes.
 
@@ -186,8 +186,8 @@ Você pode executar todos os seus testes com um único comando, como jest, ou ex
 
 ### Referências
 
-- https://jestjs.io/pt-BR/docs/getting-started
-- https://jestjs.io/pt-BR/docs/expect
-- https://jestjs.io/pt-BR/docs/mock-function-api
-- https://jestjs.io/pt-BR/docs/snapshot-testing
-- https://jestjs.io/pt-BR/docs/configuration
+- https://jestjs.io/docs/getting-started
+- https://jestjs.io/docs/expect
+- https://jestjs.io/docs/mock-function-api
+- https://jestjs.io/docs/snapshot-testing
+- https://jestjs.io/docs/configuration
